@@ -16,3 +16,7 @@
 /* 通过jsd加速github文件 */
 @import "https://cdn.jsdelivr.net/gh/anghunk/v2ex_theme/v2ex_theme.min.css";
 ```
+
+## 反馈
+
+如果和网站不兼容，欢迎提出，或者在 Issues。
