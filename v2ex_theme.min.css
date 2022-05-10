@@ -54,7 +54,7 @@ a.top:link,a.top:visited{font-weight:unset;color:var(--link-color)}
 #search-container #search{height:34px;padding-left:12px}
 .select2-container--default .select2-selection--single{border-radius:var(--box-border-radius)}
 .wwads-cn{border-bottom:none}
-body #Wrapper.Night{background-color:#000!important}
+body #Wrapper.Night{background:#000!important}
 body #Wrapper.Night #Main .cell.item:hover{background:#494949}
 .Night a.topic-link:active,.Night a.topic-link:link{color:#a5a5a5}
 .Night a.topic-link:visited{color:#606060}
