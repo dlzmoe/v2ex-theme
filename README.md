@@ -14,10 +14,10 @@
 
 ```css
 /* 通过jsd加速github文件 */
-@import "https://cdn.jsdelivr.net/gh/anghunk/v2ex_theme/v2ex_theme.min.css";
+@import "https://cdn.jsdelivr.net/gh/zburu/v2ex_theme/v2ex_theme.min.css";
 
 /* 放在我自己服务器上的链接 */
-@import "https://cdn.imhan.cn/list/v2ex_theme.css";
+@import "https://cdn.zburu.cn/list/v2ex_theme.css";
 ```
 
 ## 反馈
