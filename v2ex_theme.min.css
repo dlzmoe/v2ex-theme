@@ -8,7 +8,7 @@ a.topic-link:hover{color:var(--link-hover-color)}
 .cell{padding:12px}
 #Top{height:52px;border-bottom:none;box-shadow:0 1px 3px rgb(18 18 18 / 10%)}
 .content{display:flex;flex-direction:row-reverse}
-#Main{margin:0;flex:1}
+#Main{margin:0;flex:1;overflow:auto}
 #Rightbar{margin-left:20px;margin-right:0}
 #Rightbar .box:nth-last-child(2){position:sticky;top:20px}
 #Top>.content{height:100%;display:flex;align-items:center}
