@@ -1,4 +1,4 @@
-@font-face{font-family:HarmonyOS_Sans;src:url(https://cdn.jsdelivr.net/gh/anghunk/cdn/font/HarmonyOS_Sans_SC_Medium.woff2)}
+@font-face{font-family:HarmonyOS_Sans;src:url(https://cdn.jsdelivr.net/gh/zoer98/cdn/font/HarmonyOS_Sans_SC_Medium.woff2)}
 body{font-family:HarmonyOS_Sans}
 body #Wrapper{background-image:linear-gradient(to right,rgb(201 201 201),rgb(230 230 230))!important}
 :root{--box-border-radius:2px;--box-border-color:#f0f2f7;--link-color:#8590a6;--link-hover-color:#294a8e;--box-border-color:#f0f2f7}
