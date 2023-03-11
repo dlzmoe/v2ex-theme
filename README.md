@@ -14,7 +14,7 @@
 
 ```css
 /* 通过jsd加速github文件 */
-@import "https://cdn.jsdelivr.net/gh/zoer98/v2ex_theme/v2ex_theme.min.css";
+@import "https://cdn.jsdelivr.net/gh/lovezsh/v2ex_theme/v2ex_theme.min.css";
 
 /* 放在我自己服务器上的链接 */
 @import "https://cdn.zburu.com/list/v2ex_theme.css";
